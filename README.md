@@ -20,6 +20,7 @@ Abstract
 Esta sesión se enfocará en la claridad de los conceptos que se necesita para obtener un alto nivel de competencia en Java.
 
 Speaker: Omar Rivera
+
 Slides: http://bit.ly/31HkLpw
 
 How to build Skycrapers using TDD
@@ -30,6 +31,7 @@ En esta sesión se demostrará que partiendo de pequeños proyectos se pueden ll
 
 
 Speaker: Angel Chambi
+
 Slides: http://bit.ly/3br2fX7
 
 
